@@ -1,5 +1,5 @@
 # 15-112-Final-Project
-python/pygame multiplayer game using webscraping/ caching
+View the demo-video.txt file for a visual demonstration submitted for the Term Project.
 
 
 Welcome to PokeRescue!
